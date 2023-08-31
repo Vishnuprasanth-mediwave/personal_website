@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(112, 112, 13);
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: aliceblue
+}

@@ -25,3 +25,15 @@ npx serve imageTag
 ### to run
 
 npx serve googlePage
+
+# list
+
+### to run
+
+npx serve list
+
+# first_website
+
+### to run
+
+npx serve first_website
