@@ -1,0 +1,29 @@
+body{
+    font-family: serif;
+}
+.container{
+    display: block;
+   
+}
+#cen{
+    display: block;
+    text-align: center;
+}
+#center{
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+    padding: 5px;
+    
+}
+input{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+button{
+    width: 200px;
+    border-radius: 5px;
+
+}
